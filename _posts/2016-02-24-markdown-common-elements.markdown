@@ -13,7 +13,7 @@ author: Anirudh Mani
 description: Artful Intel Coming Soon
 ---
 
-## Summary:
+<!-- ## Summary:
 
 You can pick as item to see how to apply in markdown.
 
@@ -27,9 +27,9 @@ You can pick as item to see how to apply in markdown.
 - [Images](#images)
 - [Code](#code)
 
----
+--- -->
 
-## Basic formatting
+## Artful Intel
 
 **Artful Intel** is a personal project of mine that I've been working on for quite some time now. It is essentially the coming together of my two major interests now,
 * Machine Learning/ Artificial Intelligence
@@ -37,18 +37,19 @@ You can pick as item to see how to apply in markdown.
 
 But through Artful Intel I plan to cover more. Related topics like Art in general, modern techniques in Deep Learning, tutorials with code samples, consolidating useful resources, and basically anything that has anything to do with Machine Learning, Music, Art, Artifical Intelligence, and puppies, is fair game for this blog! :)
 
-URL - [www.artfulintel.blog]
+URL - [www.artfulintel.blog](https://www.artfulintel.blog)
+
 DATE - Feb 4th, 2018
 
 
 
 <!-- [Markdown][1] is *capable of doing*. -->
 
-And that's how to do it.
+<!-- And that's how to do it. -->
 
-{% highlight html %}
-This note **demonstrates** some of what [Markdown][some/link] is *capable of doing*.
-{% endhighlight %}
+<!-- {% highlight html %} -->
+<!-- This note **demonstrates** some of what [Markdown][some/link] is *capable of doing*. -->
+<!-- {% endhighlight %} -->
 
 ---
 <!--
