@@ -1,16 +1,16 @@
 ---
-title: "Markdown Common Elements"
+title: "Artful Intel Coming Soon"
 layout: post
-date: 2016-02-24 22:44
+date: 2018-01-20 22:44
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
-- markdown
-- elements
+- Artful
+- ArtML
 star: true
 category: blog
-author: johndoe
-description: Markdown summary with different options
+author: Anirudh Mani
+description: Artful Intel Coming Soon
 ---
 
 ## Summary:
@@ -31,7 +31,18 @@ You can pick as item to see how to apply in markdown.
 
 ## Basic formatting
 
-This note **demonstrates** some of what [Markdown][1] is *capable of doing*.
+**Artful Intel** is a personal project of mine that I've been working on for quite some time now. It is essentially the coming together of my two major interests now,
+* Machine Learning/ Artificial Intelligence
+* Music Technology/ Music Information Retrieval/ Music Generation  
+
+But through Artful Intel I plan to cover more. Related topics like Art in general, modern techniques in Deep Learning, tutorials with code samples, consolidating useful resources, and basically anything that has anything to do with Machine Learning, Music, Art, Artifical Intelligence, and puppies, is fair game for this blog! :)
+
+URL - [www.artfulintel.blog]
+DATE - Feb 4th, 2018
+
+
+
+<!-- [Markdown][1] is *capable of doing*. -->
 
 And that's how to do it.
 
@@ -40,7 +51,7 @@ This note **demonstrates** some of what [Markdown][some/link] is *capable of doi
 {% endhighlight %}
 
 ---
-
+<!--
 ## Headings
 
 There are six levels of headings. They correspond with the six levels of HTML headings. You've probably noticed them already in the page. Each level down uses one more hash character. But we are using just 4 of them.
@@ -217,4 +228,4 @@ $(window).scroll(function() {
 [3]: http://www.markitdown.net/
 [4]: http://daringfireball.net/projects/markdown/basics
 [5]: http://daringfireball.net/projects/markdown/syntax
-[6]: http://kune.fr/wp-content/uploads/2013/10/ghost-blog.jpg
+[6]: http://kune.fr/wp-content/uploads/2013/10/ghost-blog.jpg -->
