@@ -14,7 +14,7 @@ picture: assets/images/AMClose.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://drive.google.com/file/d/1PFUXv8DcfnjfiKoAZL8FtE1IGs0dwTIn/view
 
 url: https://anirudh3.github.io
 # your url: http://USERNAME.github.io
@@ -31,7 +31,7 @@ permalink: /:title/
 # if you don't want comments in your posts, leave categories empty
 disqus:
   shortname: mydisqus # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+  categories: #[blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 facebook: anirudh3
@@ -39,7 +39,7 @@ twitter: ani3rudh
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: anirudh-mani-1796934b
 # youtube: myyoutube
 # spotify: myspotify
 github: anirudh3
@@ -50,6 +50,7 @@ github: anirudh3
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
+soundcloud: pompeyitis
 email: amani@andrew.cmu.edu
 
 authors:
